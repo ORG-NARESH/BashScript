@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Enter your name"
+echo -e "Enter your name"
 sleep 2
