@@ -10,3 +10,4 @@ TodayDate=$(date +%D)
 echo "Today's date is $TodayDate"
 PROCESS=$(who | wc -l)
 echo "running process are $PROCESS"
+echo "This system hostname is $(hostname)"
