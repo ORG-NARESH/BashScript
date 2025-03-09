@@ -12,5 +12,4 @@ PROCESS=$(who | wc -l)
 echo "running process are $PROCESS"
 echo -e "This system hostname is" \e[32m$(hostname)\e[0m
 
-echo -e "${BOLD}${RED}Bold Red Text${RESET}"
 
