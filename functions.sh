@@ -11,3 +11,4 @@ echo "calling function"
 stat
 
 echo "calling function for 2nd time"
+stat
