@@ -3,3 +3,4 @@ if [ "$ACTION" == "start" ];
 then
 echo "starting service"
 fi
+echo "Script executed"
